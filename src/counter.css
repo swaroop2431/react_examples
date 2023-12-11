@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.main button{
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    font-size: 22px;
+    border-radius: 4px;
+    color: white;
+}
+button.plus{
+    background-color: green;
+}
+button.minus{
+    background-color: red;
+}
